@@ -21,3 +21,6 @@ https://www.kaggle.com/c/fake-news/data
 
 ### Accuracy score achieved:-
  90% +
+ 
+ 
+### Note: NLP text pre-processing technique takes quite a while for it to process.
